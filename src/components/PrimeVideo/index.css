@@ -1,0 +1,20 @@
+.prime-video-image {
+  width: 100%;
+  height: 40vh;
+}
+.movies-bg-container {
+  min-height: 100vh;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.heading {
+  color: white;
+  font-size: 25px;
+  font-family: 'roboto';
+}
+.bg-container {
+  background-color: black;
+}
+.action-movie-container {
+  margin-bottom: 50px;
+}
